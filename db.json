@@ -1,1 +1,6 @@
-
+{
+  name: "Raghav", 
+  position: "Software Engineer",
+  image: "",
+  description: "Hardworking and Sincere"
+}
